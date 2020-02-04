@@ -1,0 +1,33 @@
+.container h1 {
+  color: aquamarine;
+}
+.btn {
+  border: none;
+  padding: 0.8rem;
+  background: cadetblue;
+}
+.btn-primary {
+  background: chartreuse;
+}
+.btn:hover {
+  background: cornflowerblue;
+}
+.btn-danger {
+  background: #dfe345;
+}
+ul li {
+  text-decoration: none;
+  font-size: 4.5rem;
+  padding-top: 3rem;
+  list-style: none;
+}
+.well {
+  background: white;
+}
+.open {
+  color: #9acd32;
+}
+
+.no-show {
+  display: none;
+}
